@@ -13,9 +13,8 @@ File utama proyek berada pada folder src/Main.java.
 
 ## ⚙️ Cara Menjalankan Program
 
-1. Pastikan sudah menginstal *JDK* minimal versi 17.
-2. Buka terminal di folder proyek.
-3. Jalankan perintah berikut:
+1. clone ripositori (git clone https://github.com/Rennn77/Codelab_Modul3.git)
+2. Navigasi ke direktori proyek: cd Codelab_Modul3
 
    ```bash
    javac src/Main.java
