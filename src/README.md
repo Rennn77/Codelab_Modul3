@@ -1,10 +1,22 @@
-# Codelab Modul 3 - Pemrograman Lanjut
+# DocumentationPractice
 
-## Deskripsi
-Program ini dibuat untuk menyelesaikan Codelab 1 pada Modul 3 mata kuliah Pemrograman Lanjut.
-Tujuan utamanya adalah memahami penggunaan Git dan GitHub sebagai sistem kontrol versi, serta dokumentasi proyek menggunakan file README.
+Proyek ini dibuat untuk *Codelab 2 Modul 3 - Pemrograman Lanjut*.  
+Tujuannya adalah mempraktikkan pembuatan dokumentasi proyek menggunakan *README.md*.
 
-## Cara Menjalankan Program
-1. Clone repository ini ke komputer kamu:
+---
+
+## 📖 Deskripsi Program
+Program ini menampilkan pesan sederhana ke layar menggunakan bahasa pemrograman *Java*.  
+File utama proyek berada pada folder src/Main.java.
+
+---
+
+## ⚙️ Cara Menjalankan Program
+
+1. Pastikan sudah menginstal *JDK* minimal versi 17.
+2. Buka terminal di folder proyek.
+3. Jalankan perintah berikut:
+
    ```bash
-   git clone https://github.com/Rennn77/Codelab_Modul3.git
+   javac src/Main.java
+   java -cp src Main
